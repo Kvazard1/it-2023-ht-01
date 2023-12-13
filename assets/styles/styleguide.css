@@ -1,0 +1,37 @@
+:root {
+    --template-1footer: rgba(177, 188, 192, 1);
+    --white: rgba(255, 255, 255, 1);
+    --main: rgba(24, 144, 255, 1);
+    --template-1headings: rgba(12, 16, 20, 1);
+    --template-1descriptions: rgba(81, 87, 89, 1);
+    --footer-text-14pt-font-family: "Inter-Regular", Helvetica;
+    --footer-text-14pt-font-weight: 400;
+    --footer-text-14pt-font-size: 14px;
+    --footer-text-14pt-letter-spacing: 0px;
+    --footer-text-14pt-line-height: 170.00000476837158%;
+    --footer-text-14pt-font-style: normal;
+    --template-1-button-text-18pt-font-family: "Inter-Medium", Helvetica;
+    --template-1-button-text-18pt-font-weight: 500;
+    --template-1-button-text-18pt-font-size: 18px;
+    --template-1-button-text-18pt-letter-spacing: 0px;
+    --template-1-button-text-18pt-line-height: normal;
+    --template-1-button-text-18pt-font-style: normal;
+    --h4-18pt-font-family: "Inter-Bold", Helvetica;
+    --h4-18pt-font-weight: 700;
+    --h4-18pt-font-size: 18px;
+    --h4-18pt-letter-spacing: 0px;
+    --h4-18pt-line-height: normal;
+    --h4-18pt-font-style: normal;
+    --body-2-14pt-font-family: "Inter-Regular", Helvetica;
+    --body-2-14pt-font-weight: 400;
+    --body-2-14pt-font-size: 14px;
+    --body-2-14pt-letter-spacing: 0px;
+    --body-2-14pt-line-height: 20px;
+    --body-2-14pt-font-style: normal;
+    --template-1-h3-18pt-font-family: "Inter-Bold", Helvetica;
+    --template-1-h3-18pt-font-weight: 700;
+    --template-1-h3-18pt-font-size: 18px;
+    --template-1-h3-18pt-letter-spacing: 0px;
+    --template-1-h3-18pt-line-height: normal;
+    --template-1-h3-18pt-font-style: normal;
+}
